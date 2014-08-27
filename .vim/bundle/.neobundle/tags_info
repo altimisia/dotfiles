@@ -1,0 +1,16 @@
+molokai
+neobundle.vim
+neocomplcache
+neosnippet
+neosnippet-snippets
+nerdtree
+open-browser.vim
+previm
+syntastic
+tagbar
+unite.vim
+vim-fugitive
+vim-markdown
+vim-quickrun
+vimproc
+vimshell
